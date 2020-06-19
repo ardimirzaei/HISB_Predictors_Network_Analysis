@@ -4,7 +4,6 @@
 ###############################################
 library(tidyverse)
 library(lubridate)
-library(googlesheets)
 library(dplyr)
 library(stringr)
 library(gtools)

@@ -4,7 +4,7 @@
 ###############################################
 library(tidyverse)
 library(lubridate)
-library(googlesheets4)
+# library(googlesheets4) Not needed for offline download.
 library(dplyr)
 library(stringr)
 library(gtools)
@@ -17,16 +17,18 @@ library(qgraph)
 
 setwd("HISB_Pred_NetworkAnalysis\\") # Change to Folder where everything is
 
-# Download Database
+# Retrived Data
 ###############################################
 
-
+# Downloaded Copy
 url <- 'HISB_Predictors_Coded.csv'
+# Straight from the internet.
+url <- 'https://raw.githubusercontent.com/ardimirzaei/HISB_Predictors_Network_Analysis/master/HISB_Predictors_Coded.csv'
 
 df_load <- read.csv(url)
 
-df_backup <- df_load # Backup of download to prevent re download
-df <- as.matrix(df_load) # Need to do this because of the new API for google sheet.
+df_backup <- df_load # Backup to prevent re load
+df <- as.matrix(df_load) # Need to do this because of the new API for google sheet. Not need really needed for CSV
 
 
 # Source Custom Functions
@@ -143,10 +145,6 @@ plot_networks(edgeFile_Dynamic, nodeFile_Dynamic, "Network Model for all years t
 plot_networks(edgeFile_Pre2008, nodeFile_Pre2008, "Network Model for Pre 2008")
 plot_networks(edgeFile_Post2008, nodeFile_Post2008, "Network Model for Post 2008")
 dev.off()
-
-
-# FILENAME.png <-  paste0("All_Year_Graph_",format(Sys.time(), '%d%m%Y'),".png")
-# dev.copy(png,FILENAME.png)
 
 
 ###############################################
