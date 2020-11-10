@@ -1,0 +1,469 @@
+"targetName","sourceName","RecordNumber","Year","StartDate","YearStop","EndDate","Interval","type","source","target"
+"Attitude","Affect",621,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",1,2
+"Behav/Intention","Affect",621,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",1,6
+"Behav/Intention","Attitude",621,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",2,6
+"Health Cond","Affect",621,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",1,10
+"Health Cond","Attitude",621,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",2,10
+"Health Cond","Behav/Intention",621,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",6,10
+"Health Cond","Attitude/Concern",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",3,10
+"Health Cond","Attitude/Concern",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",3,10
+"Health Cond/Beliefs","Environ/Network",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",7,11
+"Health Cond/Beliefs","Health Cond",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",10,11
+"Health Cond/Family","Health Cond",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",10,14
+"Health Cond/Family","Health Cond",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",10,14
+"Health Cond/Family","Attitude/Concern",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",3,14
+"Health Cond/Family","Health Cond/Experience",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",13,14
+"Health Cond/Family","Health Cond",581,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,14
+"Health Cond/Family","Health Cond/Beliefs",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",11,14
+"Health Cond/Family","Environ/Network",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",7,14
+"Health Cond/Family","Health Cond/Beliefs",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",11,14
+"Health Cond/Family","Health Cond",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,14
+"Health Cond/Side Effects","Health Cond/Knowledge",651,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",15,16
+"Health Cond/Treatment","Health Cond/Knowledge",651,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",15,17
+"Health Cond/Treatment","Health Cond/Side Effects",651,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",16,17
+"Health Status","Health Cond",690,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",10,18
+"Health Status","Affect",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",1,18
+"Health Status","Health Cond",625,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",10,18
+"Health/Beliefs","Health Cond/Experience",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",13,19
+"Health/Beliefs","Affect",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",1,19
+"Health/Beliefs","Health Cond/Family",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",14,19
+"Health/Beliefs","Health Behav",611,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",9,19
+"Healthcare/Attitude/Trust","Health Cond/Beliefs",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",11,22
+"Healthcare/Beliefs","Attitude/Concern",2857,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",3,23
+"Healthcare/Engagement","Health Cond",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",10,24
+"Healthcare/Engagement","Attitude/Concern",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",3,24
+"Healthcare/Experience","Health Cond/Beliefs",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",11,25
+"Healthcare/Experience","Health Status",564,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",18,25
+"Healthcare/Experience","Environ/Network",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",7,25
+"Healthcare/Experience","Health Cond/Family",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",14,25
+"Healthcare/Familiarity","Attitude/Concern",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",3,26
+"Healthcare/Familiarity","Health Cond",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",10,26
+"Healthcare/Familiarity","Health Cond",625,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",10,26
+"Healthcare/Familiarity","Health Cond/Family",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",14,26
+"Healthcare/Familiarity","Health Status",625,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",18,26
+"Healthcare/Familiarity","Health Cond",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,26
+"Healthcare/Familiarity","Healthcare/Engagement",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",24,26
+"Healthcare/Type","Health Cond",649,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",10,27
+"Info/Attitude/Trust","Health/Beliefs",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",19,28
+"Info/Attitude/Trust","Health Cond/Experience",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",13,28
+"Info/Attitude/Trust","Health Cond/Family",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",14,28
+"Info/Attitude/Trust","Attitude/Concern",2857,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",3,28
+"Info/Attitude/Trust","Healthcare/Beliefs",2857,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",23,28
+"Info/Beliefs","Attitude/Concern",2857,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",3,29
+"Info/Beliefs","Info/Attitude/Trust",2857,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",28,29
+"Info/Beliefs","Healthcare/Beliefs",2857,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",23,29
+"Info/Beliefs/Salience","Info/Attitude/Trust",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",28,30
+"Info/Beliefs/Salience","Health/Beliefs",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",19,30
+"Info/Beliefs/Salience","Health Cond/Experience",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",13,30
+"Info/Beliefs/Salience","Health Cond/Family",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",14,30
+"Info/Health/Info Seeking","Health Cond/Beliefs",2947,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",11,31
+"Info/Health/Info Seeking/Beliefs","Health Cond/Beliefs",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",11,32
+"Info/Health/Info Seeking/Beliefs","Healthcare/Attitude/Trust",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",22,32
+"Info/Non-healthcare/Info Seeking","Health Cond/Beliefs",2947,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",11,34
+"Info/Non-healthcare/Info Seeking","Info/Health/Info Seeking",2947,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",31,34
+"Internal locus of control","Health Cond",592,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,35
+"Internet/Access","Affect",621,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",1,36
+"Internet/Access","Health Cond/Treatment",2654,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",17,36
+"Internet/Access","Healthcare/Access",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",21,36
+"Internet/Access","Affect",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",1,36
+"Internet/Access","Health Status",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",18,36
+"Internet/Access","Health Cond",649,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",10,36
+"Internet/Access","Healthcare/Type",649,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",27,36
+"Internet/Access","Health Cond/Family",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",14,36
+"Internet/Access","Health Cond",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",10,36
+"Internet/Access","Attitude/Concern",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",3,36
+"Internet/Access","Health Cond",621,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",10,36
+"Internet/Access","Behav/Intention",621,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",6,36
+"Internet/Access","Attitude",621,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",2,36
+"Internet/Attitude/Trust","Healthcare/Experience",2885,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",25,37
+"Internet/Attitude/Trust","Info/Health/Info Seeking/Beliefs",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",32,37
+"Internet/Attitude/Trust","Health Cond/Beliefs",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",11,37
+"Internet/Attitude/Trust","Healthcare/Attitude/Trust",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",22,37
+"Internet/Beliefs","Health Cond/Treatment",2654,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",17,38
+"Internet/Beliefs","Internet/Access",2654,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",36,38
+"Internet/Experience","Affect",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",1,39
+"Internet/Experience","Health Cond",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",10,39
+"Internet/Experience","Internet/Access",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",36,39
+"Internet/Experience","Healthcare/Experience",2885,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",25,39
+"Internet/Experience","Health Cond/Family",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",14,39
+"Internet/Experience","Health/Beliefs",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",19,39
+"Internet/Experience","Internet/Attitude/Trust",2885,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",37,39
+"Internet/Experience","Internet/Access",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",36,39
+"Internet/Experience","Health Cond",2648,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,39
+"Internet/Experience","Health Status",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",18,39
+"Internet/Experience","Attitude/Concern",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",3,39
+"Internet/Experience","Affect",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",1,39
+"Non-healthcare/Attitude/Trust","Internet/Attitude/Trust",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",37,41
+"Non-healthcare/Attitude/Trust","Health Cond/Beliefs",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",11,41
+"Non-healthcare/Attitude/Trust","Healthcare/Attitude/Trust",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",22,41
+"Non-healthcare/Attitude/Trust","Info/Health/Info Seeking/Beliefs",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",32,41
+"Non-healthcare/Beliefs","Health/Beliefs",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",19,42
+"Non-healthcare/Beliefs","Internet/Experience",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",39,42
+"Non-healthcare/Beliefs","Affect",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",1,42
+"Non-healthcare/Type","Attitude/Concern",2857,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",3,44
+"Non-healthcare/Type","Info/Beliefs",2857,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",29,44
+"Non-healthcare/Type","Health/Risk/Beliefs",800,1999,"[1999",2019,",2019]","[1999,2019]","Undirected",20,44
+"Non-healthcare/Type","Healthcare/Beliefs",2857,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",23,44
+"Non-healthcare/Type","Info/Attitude/Trust",2857,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",28,44
+"S/Age","Health Status",625,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",18,45
+"S/Age","Health Cond/Family",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",14,45
+"S/Age","Health Cond/Family",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",14,45
+"S/Age","Health/Beliefs",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",19,45
+"S/Age","Affect",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",1,45
+"S/Age","Attitude/Concern",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",3,45
+"S/Age","Healthcare/Engagement",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",24,45
+"S/Age","Affect",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",1,45
+"S/Age","Internet/Access",649,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",36,45
+"S/Age","Health Cond",581,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,45
+"S/Age","Internet/Access",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",36,45
+"S/Age","Health Cond/Side Effects",651,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",16,45
+"S/Age","Health Cond",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,45
+"S/Age","Health Cond/Knowledge",651,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",15,45
+"S/Age","Health Cond/Treatment",651,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",17,45
+"S/Age","Healthcare/Familiarity",625,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",26,45
+"S/Age","Healthcare/Access",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",21,45
+"S/Age","Internet/Access",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",36,45
+"S/Age","Healthcare/Attitude/Trust",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",22,45
+"S/Age","Non-healthcare/Attitude/Trust",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",41,45
+"S/Age","Internet/Experience",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",39,45
+"S/Age","Health Status",690,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",18,45
+"S/Age","Health/Risk/Beliefs",800,1999,"[1999",2019,",2019]","[1999,2019]","Undirected",20,45
+"S/Age","Internet/Experience",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",39,45
+"S/Age","Attitude/Concern",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",3,45
+"S/Age","Info/Health/Info Seeking/Beliefs",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",32,45
+"S/Age","Healthcare/Familiarity",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",26,45
+"S/Age","Health Cond/Beliefs",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",11,45
+"S/Age","Health Cond",2648,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,45
+"S/Age","Health Cond",649,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",10,45
+"S/Age","Health Cond",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",10,45
+"S/Age","Internet/Experience",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",39,45
+"S/Age","Health Status",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",18,45
+"S/Age","Health Cond",625,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",10,45
+"S/Age","Internet/Access",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",36,45
+"S/Age","Health Cond",690,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",10,45
+"S/Age","Non-healthcare/Beliefs",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",42,45
+"S/Age","Health Cond",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",10,45
+"S/Age","Healthcare/Familiarity",542,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",26,45
+"S/Age","Non-healthcare/Type",800,1999,"[1999",2019,",2019]","[1999,2019]","Undirected",44,45
+"S/Age","Health Cond",528,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",10,45
+"S/Age","Healthcare/Type",649,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",27,45
+"S/Age","Healthcare/Familiarity",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",26,45
+"S/Age","Internet/Experience",2648,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",39,45
+"S/Age","Health Cond/Family",581,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",14,45
+"S/Age","Internet/Attitude/Trust",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",37,45
+"S/Education","Health Cond/Beliefs",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",11,47
+"S/Education","Healthcare/Engagement",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",24,47
+"S/Education","Health Cond",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,47
+"S/Education","Internet/Attitude/Trust",2885,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",37,47
+"S/Education","Healthcare/Attitude/Trust",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",22,47
+"S/Education","S/Age",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",45,47
+"S/Education","Health/Beliefs",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",19,47
+"S/Education","Info/Attitude/Trust",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",28,47
+"S/Education","Info/Beliefs/Salience",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",30,47
+"S/Education","Health/Beliefs",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",19,47
+"S/Education","S/Age",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",45,47
+"S/Education","Affect",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",1,47
+"S/Education","Internet/Experience",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",39,47
+"S/Education","Attitude/Concern",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",3,47
+"S/Education","Health Cond/Beliefs",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",11,47
+"S/Education","S/Age",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",45,47
+"S/Education","Internet/Attitude/Trust",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",37,47
+"S/Education","Health Cond/Side Effects",651,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",16,47
+"S/Education","S/Age",651,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",45,47
+"S/Education","Health Cond/Family",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",14,47
+"S/Education","Internet/Experience",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",39,47
+"S/Education","Health Cond",551,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,47
+"S/Education","Healthcare/Access",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",21,47
+"S/Education","Affect",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",1,47
+"S/Education","S/Age",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",45,47
+"S/Education","Health Cond/Knowledge",651,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",15,47
+"S/Education","Health Cond/Treatment",651,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",17,47
+"S/Education","Health Cond",528,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",10,47
+"S/Education","Info/Health/Info Seeking/Beliefs",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",32,47
+"S/Education","Internet/Access",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",36,47
+"S/Education","Healthcare/Experience",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",25,47
+"S/Education","Non-healthcare/Type",800,1999,"[1999",2019,",2019]","[1999,2019]","Undirected",44,47
+"S/Education","Health Cond",581,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,47
+"S/Education","Healthcare/Experience",2885,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",25,47
+"S/Education","S/Age",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",45,47
+"S/Education","S/Age",800,1999,"[1999",2019,",2019]","[1999,2019]","Undirected",45,47
+"S/Education","Healthcare/Experience",564,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",25,47
+"S/Education","Health Cond/Family",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",14,47
+"S/Education","Environ/Network",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",7,47
+"S/Education","S/Age",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",45,47
+"S/Education","Health Cond/Beliefs",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",11,47
+"S/Education","Health Status",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",18,47
+"S/Education","Health Cond/Experience",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",13,47
+"S/Education","Healthcare/Familiarity",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",26,47
+"S/Education","Health Cond",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",10,47
+"S/Education","Healthcare/Familiarity",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",26,47
+"S/Education","Health Cond/Family",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",14,47
+"S/Education","S/Age",581,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",45,47
+"S/Education","Health Cond",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",10,47
+"S/Education","Non-healthcare/Attitude/Trust",516,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",41,47
+"S/Education","Internet/Experience",2885,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",39,47
+"S/Education","Non-healthcare/Beliefs",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",42,47
+"S/Education","Health/Risk/Beliefs",800,1999,"[1999",2019,",2019]","[1999,2019]","Undirected",20,47
+"S/Education","Health Cond/Family",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",14,47
+"S/Education","S/Age",528,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",45,47
+"S/Education","Internet/Access",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",36,47
+"S/Education","Health Cond/Family",581,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",14,47
+"S/Education","Health Status",564,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",18,47
+"S/Employment","Internal locus of control",592,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",35,48
+"S/Employment","Health Cond",592,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,48
+"S/Financial-Capital","Health Cond",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",10,49
+"S/Financial-Capital","S/Age",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",45,49
+"S/Financial-Capital","Internet/Experience",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",39,49
+"S/Financial-Capital","Internet/Access",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",36,49
+"S/Financial-Capital","Attitude/Concern",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",3,49
+"S/Financial-Capital","Health Cond/Family",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",14,49
+"S/Financial-Health Insurance","Internet/Access",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",36,50
+"S/Financial-Health Insurance","Healthcare/Experience",2885,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",25,50
+"S/Financial-Health Insurance","S/Age",528,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",45,50
+"S/Financial-Health Insurance","S/Age",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",45,50
+"S/Financial-Health Insurance","Internet/Experience",2885,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",39,50
+"S/Financial-Health Insurance","Healthcare/Access",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",21,50
+"S/Financial-Health Insurance","S/Education",528,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",47,50
+"S/Financial-Health Insurance","S/Education",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",47,50
+"S/Financial-Health Insurance","S/Education",2885,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",47,50
+"S/Financial-Health Insurance","Internet/Attitude/Trust",2885,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",37,50
+"S/Financial-Health Insurance","Health Cond",528,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",10,50
+"S/Financial-Income","Info/Beliefs/Salience",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",30,51
+"S/Financial-Income","Health Status",690,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",18,51
+"S/Financial-Income","Health Cond/Experience",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",13,51
+"S/Financial-Income","S/Education",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",47,51
+"S/Financial-Income","S/Age",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",45,51
+"S/Financial-Income","S/Age",625,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",45,51
+"S/Financial-Income","S/Age",690,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",45,51
+"S/Financial-Income","S/Age",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",45,51
+"S/Financial-Income","Health Cond",690,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",10,51
+"S/Financial-Income","Internet/Access",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",36,51
+"S/Financial-Income","S/Age",542,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",45,51
+"S/Financial-Income","Health Cond",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",10,51
+"S/Financial-Income","S/Education",528,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",47,51
+"S/Financial-Income","S/Age",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",45,51
+"S/Financial-Income","S/Education",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",47,51
+"S/Financial-Income","Health Cond/Beliefs",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",11,51
+"S/Financial-Income","Health Cond",528,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",10,51
+"S/Financial-Income","Health Cond/Beliefs",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",11,51
+"S/Financial-Income","S/Financial-Capital",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",49,51
+"S/Financial-Income","Healthcare/Access",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",21,51
+"S/Financial-Income","Internet/Experience",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",39,51
+"S/Financial-Income","Internet/Experience",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",39,51
+"S/Financial-Income","S/Age",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",45,51
+"S/Financial-Income","Info/Attitude/Trust",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",28,51
+"S/Financial-Income","Health Cond/Family",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",14,51
+"S/Financial-Income","Health Cond/Family",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",14,51
+"S/Financial-Income","S/Age",528,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",45,51
+"S/Financial-Income","Health/Beliefs",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",19,51
+"S/Financial-Income","Health Cond/Family",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",14,51
+"S/Financial-Income","Healthcare/Familiarity",542,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",26,51
+"S/Financial-Income","S/Education",551,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",47,51
+"S/Financial-Income","Health Cond",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,51
+"S/Financial-Income","Internet/Access",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",36,51
+"S/Financial-Income","Health Cond/Family",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",14,51
+"S/Financial-Income","S/Education",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",47,51
+"S/Financial-Income","S/Financial-Health Insurance",528,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",50,51
+"S/Financial-Income","Health Status",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",18,51
+"S/Financial-Income","Affect",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",1,51
+"S/Financial-Income","S/Education",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",47,51
+"S/Financial-Income","Healthcare/Familiarity",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",26,51
+"S/Financial-Income","Health Cond",551,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,51
+"S/Financial-Income","Environ/Network",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",7,51
+"S/Financial-Income","Health Cond/Family",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",14,51
+"S/Financial-Income","Internet/Access",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",36,51
+"S/Financial-Income","S/Education",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",47,51
+"S/Financial-Income","Healthcare/Experience",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",25,51
+"S/Financial-Income","Health Cond",625,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",10,51
+"S/Financial-Income","Health Cond",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",10,51
+"S/Financial-Income","Health Status",625,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",18,51
+"S/Financial-Income","S/Financial-Health Insurance",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",50,51
+"S/Financial-Income","Attitude/Concern",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",3,51
+"S/Financial-Income","Healthcare/Familiarity",625,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",26,51
+"S/Financial-Income","S/Education",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",47,51
+"S/Gender","Attitude/Concern",2857,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",3,52
+"S/Gender","Internet/Experience",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",39,52
+"S/Gender","Internet/Experience",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",39,52
+"S/Gender","S/Education",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",47,52
+"S/Gender","Health Cond",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,52
+"S/Gender","S/Age",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",45,52
+"S/Gender","S/Financial-Income",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",51,52
+"S/Gender","Internet/Access",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",36,52
+"S/Gender","Affect",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",1,52
+"S/Gender","S/Age",2648,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",45,52
+"S/Gender","Health/Beliefs",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",19,52
+"S/Gender","S/Financial-Income",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",51,52
+"S/Gender","Attitude/Concern",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",3,52
+"S/Gender","S/Age",800,1999,"[1999",2019,",2019]","[1999,2019]","Undirected",45,52
+"S/Gender","Health Cond/Family",581,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",14,52
+"S/Gender","S/Financial-Income",542,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",51,52
+"S/Gender","Health Cond",649,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",10,52
+"S/Gender","Health Cond",2648,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,52
+"S/Gender","Non-healthcare/Type",2857,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",44,52
+"S/Gender","Healthcare/Access",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",21,52
+"S/Gender","Health Cond/Family",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",14,52
+"S/Gender","Healthcare/Familiarity",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",26,52
+"S/Gender","S/Financial-Health Insurance",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",50,52
+"S/Gender","S/Education",551,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",47,52
+"S/Gender","Health Cond",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",10,52
+"S/Gender","Non-healthcare/Type",800,1999,"[1999",2019,",2019]","[1999,2019]","Undirected",44,52
+"S/Gender","Healthcare/Beliefs",2857,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",23,52
+"S/Gender","Info/Beliefs",2857,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",29,52
+"S/Gender","S/Age",649,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",45,52
+"S/Gender","Internet/Experience",2648,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",39,52
+"S/Gender","S/Financial-Income",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",51,52
+"S/Gender","Non-healthcare/Beliefs",683,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",42,52
+"S/Gender","Internet/Access",649,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",36,52
+"S/Gender","S/Education",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",47,52
+"S/Gender","S/Education",581,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",47,52
+"S/Gender","Environ/Network",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",7,52
+"S/Gender","Internet/Access",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",36,52
+"S/Gender","S/Age",581,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",45,52
+"S/Gender","Healthcare/Experience",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",25,52
+"S/Gender","S/Age",542,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",45,52
+"S/Gender","S/Education",800,1999,"[1999",2019,",2019]","[1999,2019]","Undirected",47,52
+"S/Gender","Health/Risk/Beliefs",800,1999,"[1999",2019,",2019]","[1999,2019]","Undirected",20,52
+"S/Gender","Health Cond/Family",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",14,52
+"S/Gender","S/Financial-Income",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",51,52
+"S/Gender","Info/Attitude/Trust",2857,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",28,52
+"S/Gender","S/Education",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",47,52
+"S/Gender","S/Age",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",45,52
+"S/Gender","Health Cond/Family",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",14,52
+"S/Gender","Health Cond",581,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,52
+"S/Gender","S/Financial-Income",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",51,52
+"S/Gender","S/Financial-Income",551,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",51,52
+"S/Gender","Health Cond/Beliefs",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",11,52
+"S/Gender","Health Cond/Family",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",14,52
+"S/Gender","S/Education",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",47,52
+"S/Gender","Health Cond",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",10,52
+"S/Gender","S/Financial-Capital",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",49,52
+"S/Gender","S/Age",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",45,52
+"S/Gender","Health Cond",551,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,52
+"S/Gender","S/Age",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",45,52
+"S/Gender","Healthcare/Familiarity",542,2007,"[2007",2019,",2019]","[2007,2019]","Undirected",26,52
+"S/Gender","S/Education",590,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",47,52
+"S/Gender","Healthcare/Type",649,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",27,52
+"S/Gender","Health Cond/Beliefs",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",11,52
+"S/Gender","S/Education",559,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",47,52
+"S/Health/Health Literacy","Internet/Access",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",36,53
+"S/Health/Health Literacy","Environ/Network",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",7,53
+"S/Health/Health Literacy","Health Cond/Beliefs",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",11,53
+"S/Health/Health Literacy","Internet/Experience",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",39,53
+"S/Health/Health Literacy","Health Cond/Family",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",14,53
+"S/Health/Health Literacy","Healthcare/Experience",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",25,53
+"S/Health/Health Literacy","Internal locus of control",592,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",35,53
+"S/Health/Health Literacy","S/Age",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",45,53
+"S/Health/Health Literacy","Health Cond/Family",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",14,53
+"S/Health/Health Literacy","S/Education",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",47,53
+"S/Health/Health Literacy","S/Financial-Income",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",51,53
+"S/Health/Health Literacy","S/Financial-Capital",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",49,53
+"S/Health/Health Literacy","S/Gender",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",52,53
+"S/Health/Health Literacy","Health Cond",592,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,53
+"S/Health/Health Literacy","Health Cond",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",10,53
+"S/Health/Health Literacy","S/Employment",592,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",48,53
+"S/Health/Health Literacy","Attitude/Concern",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",3,53
+"S/Health/Health Literacy","S/Financial-Income",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",51,53
+"S/Health/Health Literacy","S/Gender",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",52,53
+"S/Household","S/Health/Health Literacy",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",53,54
+"S/Household","S/Education",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",47,54
+"S/Household","Health Cond/Family",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",14,54
+"S/Household","S/Financial-Income",551,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",51,54
+"S/Household","Attitude/Concern",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",3,54
+"S/Household","Health Cond/Family",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",14,54
+"S/Household","Health Cond",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",10,54
+"S/Household","S/Financial-Capital",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",49,54
+"S/Household","S/Gender",559,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",52,54
+"S/Household","S/Gender",551,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",52,54
+"S/Household","Internet/Access",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",36,54
+"S/Household","S/Financial-Income",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",51,54
+"S/Household","S/Education",559,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",47,54
+"S/Household","S/Age",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",45,54
+"S/Household","S/Gender",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",52,54
+"S/Household","S/Education",551,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",47,54
+"S/Household","Health Cond",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",10,54
+"S/Household","Internet/Experience",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",39,54
+"S/Household","S/Financial-Income",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",51,54
+"S/Household","Health Cond",551,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,54
+"S/Household","S/Gender",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",52,54
+"S/Household","Health Cond/Beliefs",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",11,54
+"S/Other","S/Household",559,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",54,57
+"S/Other","S/Gender",559,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",52,57
+"S/Other","S/Education",559,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",47,57
+"S/Race or Ethnicity","S/Household",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",54,58
+"S/Race or Ethnicity","Health Cond/Beliefs",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",11,58
+"S/Race or Ethnicity","S/Health/Health Literacy",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",53,58
+"S/Race or Ethnicity","Health Cond",551,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,58
+"S/Race or Ethnicity","S/Age",581,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",45,58
+"S/Race or Ethnicity","S/Financial-Income",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",51,58
+"S/Race or Ethnicity","S/Age",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",45,58
+"S/Race or Ethnicity","Internet/Attitude/Trust",2885,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",37,58
+"S/Race or Ethnicity","S/Gender",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",52,58
+"S/Race or Ethnicity","Health Cond",581,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,58
+"S/Race or Ethnicity","Healthcare/Familiarity",625,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",26,58
+"S/Race or Ethnicity","S/Financial-Income",625,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",51,58
+"S/Race or Ethnicity","Health Cond/Family",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",14,58
+"S/Race or Ethnicity","S/Financial-Income",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",51,58
+"S/Race or Ethnicity","S/Household",551,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",54,58
+"S/Race or Ethnicity","S/Financial-Health Insurance",2885,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",50,58
+"S/Race or Ethnicity","S/Education",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",47,58
+"S/Race or Ethnicity","Health Cond",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",10,58
+"S/Race or Ethnicity","Health Cond/Family",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",14,58
+"S/Race or Ethnicity","Environ/Network",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",7,58
+"S/Race or Ethnicity","Health Cond",625,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",10,58
+"S/Race or Ethnicity","Health Cond/Beliefs",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",11,58
+"S/Race or Ethnicity","S/Financial-Income",551,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",51,58
+"S/Race or Ethnicity","Health Cond/Family",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",14,58
+"S/Race or Ethnicity","S/Gender",551,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",52,58
+"S/Race or Ethnicity","Healthcare/Experience",2885,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",25,58
+"S/Race or Ethnicity","S/Education",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",47,58
+"S/Race or Ethnicity","S/Gender",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",52,58
+"S/Race or Ethnicity","S/Age",625,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",45,58
+"S/Race or Ethnicity","Healthcare/Experience",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",25,58
+"S/Race or Ethnicity","S/Financial-Income",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",51,58
+"S/Race or Ethnicity","S/Education",551,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",47,58
+"S/Race or Ethnicity","Internet/Experience",2885,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",39,58
+"S/Race or Ethnicity","Health Status",625,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",18,58
+"S/Race or Ethnicity","Health Cond",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",10,58
+"S/Race or Ethnicity","S/Education",2885,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",47,58
+"S/Race or Ethnicity","S/Gender",581,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",52,58
+"S/Race or Ethnicity","Healthcare/Familiarity",582,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",26,58
+"S/Race or Ethnicity","S/Gender",2509,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",52,58
+"S/Race or Ethnicity","S/Education",2951,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",47,58
+"S/Race or Ethnicity","S/Education",581,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",47,58
+"S/Race or Ethnicity","Health Cond/Family",581,2006,"[2006",2019,",2019]","[2006,2019]","Undirected",14,58
+"S/Society/Engagement","Attitude/Concern",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",3,60
+"S/Society/Engagement","Health Cond/Family",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",14,60
+"S/Society/Engagement","S/Financial-Capital",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",49,60
+"S/Society/Engagement","Internet/Access",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",36,60
+"S/Society/Engagement","S/Health/Health Literacy",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",53,60
+"S/Society/Engagement","Health Cond",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",10,60
+"S/Society/Engagement","Healthcare/Familiarity",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",26,60
+"S/Society/Engagement","S/Age",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",45,60
+"S/Society/Engagement","S/Age",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",45,60
+"S/Society/Engagement","S/Financial-Income",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",51,60
+"S/Society/Engagement","Healthcare/Engagement",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",24,60
+"S/Society/Engagement","Internet/Experience",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",39,60
+"S/Society/Engagement","S/Household",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",54,60
+"S/Society/Engagement","S/Education",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",47,60
+"S/Society/Engagement","S/Gender",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",52,60
+"S/Society/Engagement","Health Cond",2594,2008,"[2008",2019,",2019]","[2008,2019]","Undirected",10,60
+"S/Society/Engagement","Attitude/Concern",688,2003,"[2003",2019,",2019]","[2003,2019]","Undirected",3,60
+"Society/Subjective Norms","Behav/Intention",621,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",6,63
+"Society/Subjective Norms","Affect",621,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",1,63
+"Society/Subjective Norms","Internet/Access",621,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",36,63
+"Society/Subjective Norms","Health Cond",621,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",10,63
+"Society/Subjective Norms","Attitude",621,2005,"[2005",2019,",2019]","[2005,2019]","Undirected",2,63
+"Source/Beliefs","Health Cond/Family",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",14,64
+"Source/Beliefs","Info/Beliefs/Salience",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",30,64
+"Source/Beliefs","Health/Beliefs",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",19,64
+"Source/Beliefs","Health Cond/Experience",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",13,64
+"Source/Beliefs","Info/Attitude/Trust",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",28,64
+"Source/Beliefs","S/Education",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",47,64
+"Source/Beliefs","S/Financial-Income",899,1993,"[1993",2019,",2019]","[1993,2019]","Undirected",51,64
+"Source/Count","S/Age",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",45,65
+"Source/Count","Health Status",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",18,65
+"Source/Count","S/Education",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",47,65
+"Source/Count","Internet/Experience",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",39,65
+"Source/Count","Internet/Access",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",36,65
+"Source/Count","S/Financial-Income",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",51,65
+"Source/Count","Affect",670,2004,"[2004",2019,",2019]","[2004,2019]","Undirected",1,65
