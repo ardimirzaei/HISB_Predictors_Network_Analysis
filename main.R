@@ -25,7 +25,7 @@ url <- 'HISB_Predictors_Coded.csv'
 # Straight from the internet.
 url <- 'https://raw.githubusercontent.com/ardimirzaei/HISB_Predictors_Network_Analysis/master/HISB_Predictors_Coded.csv'
 
-df_load <- read.csv(url)
+df_load <- read.csv(url, header = FALSE)
 
 df_backup <- df_load # Backup to prevent re load
 df <- as.matrix(df_load) # Need to do this because of the new API for google sheet. Not need really needed for CSV
@@ -241,4 +241,4 @@ full_join(df_2, df_1, by='Year') %>%
 
 PAPER_OUTPUTS()
 
-write.csv(All_Cuts_Standalone, 'All_Cuts_Standalone_Descriptive.csv', row.names=TRUE)
+# write.csv(All_Cuts_Standalone, 'All_Cuts_Standalone_Descriptive.csv', row.names=TRUE)

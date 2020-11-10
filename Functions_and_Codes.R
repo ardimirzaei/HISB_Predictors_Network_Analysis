@@ -75,7 +75,7 @@ Modularity_of_Predictors <- function(edge_file, node_file) {
 Clean_and_Correct_Database <- function(df, headers = 1, AbbreviatedColumn = FALSE){
   # Headers can be Numerical or TRUE
   if (headers== 0 | !headers) {
-    stop("Headers can be integar > 0 or FALSE ")
+    stop("Headers can be integar > 0 or TRUE ")
   }
 
   # Years
