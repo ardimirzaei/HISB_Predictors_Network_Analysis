@@ -102,7 +102,7 @@ Clean_and_Correct_Database <- function(df, headers = 1, AbbreviatedColumn = FALS
 
   # Unique Terms
   df_terms <- df[-headers,c(1:3)] # First row contained string terms for the headers
-  colnames(df_terms) <- c('RecordNumber', 'Variable', 'Coding') # Assign headers
+  colnames(df_terms) <- c('RecordNumber', 'Author', 'Coding') # Assign headers
   dfUnique <- unique(df_terms[,c(1,3)]) # Only want the unique connections of terms in a paper. Duplicates are not needed. 
   dfUnique <- dfUnique[complete.cases(dfUnique),] # Remove columns with NA Entry
   dfUnique <- dfUnique[!dfUnique[,2]=="NOENTRY",] # Remove the NO entry
